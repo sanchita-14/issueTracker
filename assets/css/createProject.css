@@ -1,0 +1,21 @@
+.createProjectSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #818589;
+    padding: 25px 0;
+    font-size: 700;
+}
+
+.createProjectForm {
+    min-width: 500px;
+}
+.btn{
+    border-radius: 25px !important;
+}
+input{
+    border-radius: 15px !important;
+}
+textarea{
+    border-radius: 15px !important;
+}
